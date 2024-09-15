@@ -1,0 +1,194 @@
+[
+  {
+    "name": "January",
+    "specifier": 1,
+    "numberOfDays": 31,
+    "startDate": "2023-01-01",
+    "endDate": "2023-01-31",
+    "year": "2023"
+  },
+  {
+    "name": "February",
+    "specifier": 2,
+    "numberOfDays": 28,
+    "startDate": "2023-02-01",
+    "endDate": "2023-02-28",
+    "year": "2023"
+  },
+  {
+    "name": "March",
+    "specifier": 3,
+    "numberOfDays": 31,
+    "startDate": "2023-03-01",
+    "endDate": "2023-03-31",
+    "year": "2023"
+  },
+  {
+    "name": "April",
+    "specifier": 4,
+    "numberOfDays": 30,
+    "startDate": "2023-04-01",
+    "endDate": "2023-04-30",
+    "year": "2023"
+  },
+  {
+    "name": "May",
+    "specifier": 5,
+    "numberOfDays": 31,
+    "startDate": "2023-05-01",
+    "endDate": "2023-05-31",
+    "year": "2023"
+  },
+  {
+    "name": "June",
+    "specifier": 6,
+    "numberOfDays": 30,
+    "startDate": "2023-06-01",
+    "endDate": "2023-06-30",
+    "year": "2023"
+  },
+  {
+    "name": "July",
+    "specifier": 7,
+    "numberOfDays": 31,
+    "startDate": "2023-07-01",
+    "endDate": "2023-07-31",
+    "year": "2023"
+  },
+  {
+    "name": "August",
+    "specifier": 8,
+    "numberOfDays": 31,
+    "startDate": "2023-08-01",
+    "endDate": "2023-08-31",
+    "year": "2023"
+  },
+  {
+    "name": "September",
+    "specifier": 9,
+    "numberOfDays": 30,
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-30",
+    "year": "2023"
+  },
+  {
+    "name": "October",
+    "specifier": 10,
+    "numberOfDays": 31,
+    "startDate": "2023-10-01",
+    "endDate": "2023-10-31",
+    "year": "2023"
+  },
+  {
+    "name": "November",
+    "specifier": 11,
+    "numberOfDays": 30,
+    "startDate": "2023-11-01",
+    "endDate": "2023-11-30",
+    "year": "2023"
+  },
+  {
+    "name": "December",
+    "specifier": 12,
+    "numberOfDays": 31,
+    "startDate": "2023-12-01",
+    "endDate": "2023-12-31",
+    "year": "2023"
+  },
+  {
+    "name": "January",
+    "specifier": 1,
+    "numberOfDays": 31,
+    "startDate": "2024-01-01",
+    "endDate": "2024-01-31",
+    "year": "2024"
+  },
+  {
+    "name": "February",
+    "specifier": 2,
+    "numberOfDays": 29,
+    "startDate": "2024-02-01",
+    "endDate": "2024-02-29",
+    "year": "2024"
+  },
+  {
+    "name": "March",
+    "specifier": 3,
+    "numberOfDays": 31,
+    "startDate": "2024-03-01",
+    "endDate": "2024-03-31",
+    "year": "2024"
+  },
+  {
+    "name": "April",
+    "specifier": 4,
+    "numberOfDays": 30,
+    "startDate": "2024-04-01",
+    "endDate": "2024-04-30",
+    "year": "2024"
+  },
+  {
+    "name": "May",
+    "specifier": 5,
+    "numberOfDays": 31,
+    "startDate": "2024-05-01",
+    "endDate": "2024-05-31",
+    "year": "2024"
+  },
+  {
+    "name": "June",
+    "specifier": 6,
+    "numberOfDays": 30,
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-30",
+    "year": "2024"
+  },
+  {
+    "name": "July",
+    "specifier": 7,
+    "numberOfDays": 31,
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-31",
+    "year": "2024"
+  },
+  {
+    "name": "August",
+    "specifier": 8,
+    "numberOfDays": 31,
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-31",
+    "year": "2024"
+  },
+  {
+    "name": "September",
+    "specifier": 9,
+    "numberOfDays": 30,
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-30",
+    "year": "2024"
+  },
+  {
+    "name": "October",
+    "specifier": 10,
+    "numberOfDays": 31,
+    "startDate": "2024-10-01",
+    "endDate": "2024-10-31",
+    "year": "2024"
+  },
+  {
+    "name": "November",
+    "specifier": 11,
+    "numberOfDays": 30,
+    "startDate": "2024-11-01",
+    "endDate": "2024-11-30",
+    "year": "2024"
+  },
+  {
+    "name": "December",
+    "specifier": 12,
+    "numberOfDays": 31,
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-31",
+    "year": "2024"
+  }
+]
